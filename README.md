@@ -66,9 +66,6 @@ HawtC 是部分开源且免费使用的计算软件，需要您申请免费的�
 
 交流论坛 http://www.openwecd.fun:22304/
 
-## 开发者
-
-<divalign="center">
 
 ## 开发者
 
